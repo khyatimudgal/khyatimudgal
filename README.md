@@ -27,5 +27,4 @@ still learning, still improving.
 ## ⚡ currently
 working on my fundamentals and building things as i learn.
 
-work in progress
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
