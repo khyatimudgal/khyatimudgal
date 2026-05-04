@@ -2,7 +2,7 @@
 building things, breaking things, learning in between.
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF69B4&vCenter=true&width=250&lines=dark+mode+always;learning+by+building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF69B4&vCenter=true&width=400&lines=18.+self-taught.+just+getting+started." />
 </p>
 
 ## ⚡ about
