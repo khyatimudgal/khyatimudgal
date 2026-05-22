@@ -35,7 +35,7 @@ still learning, still improving.
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Vercel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" alt="Postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/>
@@ -49,9 +49,9 @@ working on my fundamentals and building things as i learn.
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=khyatimudgal&theme=radical&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khyatimudgal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
 </p>
 
 <p>
-  <img src="https://ghchart.rshah.org/FF69B4/khyatimudgal" alt="Khyati's contribution chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khyatimudgal&bg_color=0d1117&color=FF69B4&line=FF69B4&point=FF69B4&area=true&hide_border=true" />
 </p>
