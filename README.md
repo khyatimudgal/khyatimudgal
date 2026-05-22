@@ -49,9 +49,5 @@ working on my fundamentals and building things as i learn.
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=khyatimudgal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khyatimudgal&bg_color=0d1117&color=FF69B4&line=FF69B4&point=FF69B4&area=true&hide_border=true" />
 </p>
