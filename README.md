@@ -27,7 +27,7 @@ still learning, still improving.
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
+  <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
 </p>
 
@@ -49,7 +49,7 @@ working on my fundamentals and building things as i learn.
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=khyatimudgal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=khyatimudgal&theme=radical&hide_border=true&background=0d1117" />
 </p>
 
 <p>
